@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sata Food</string>
+    <string name="foodimage">FoodImage</string>
+    <string name="hello">أهلا بيك</string>
+    <string name="enjoy">أستمتع</string>
+    <string name="biggest_collection">بأكبر مجموعة من المطاعم والعروض</string>
+    <string name="see">تصفح أقوي العروض عندنا</string>
+</resources>
